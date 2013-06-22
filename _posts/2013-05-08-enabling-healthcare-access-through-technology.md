@@ -54,11 +54,6 @@ While a lot of innovation is happening in this space, it remains to be seen as t
 ![](http://imgs.xkcd.com/comics/cell_phones.png)
 
 
-This post was submitted to [#ApolloTouchingLives](http://twitter.com/search/%23ApolloTouchingLives) by [Apollo Hospitals - Cutting Edge] (http://www.apollohospitals.com/cutting-edge.php) on [IndiBlogger](http://www.indiblogger.in)
-
-
-
-
 
 <style type="text/css">
 .media-container{
